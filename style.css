@@ -1,0 +1,13 @@
+div {
+    border: 1px solid black;
+    width: 80%;
+    margin: 0 auto;
+}
+
+th {
+    border-bottom: 2px solid yellow;
+}
+
+th{
+    width: 24%;
+}
